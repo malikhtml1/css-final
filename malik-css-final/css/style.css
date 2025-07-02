@@ -46,7 +46,7 @@
   padding-top: 110px;
   
 
-  background-image: url(./images/free-banner-edited.jpg');
+  background-image: url('/images/free-banner-edited.jpg');
   background-size:cover;
   position: static;
   background-repeat: no-repeat;
